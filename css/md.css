@@ -1,0 +1,13 @@
+
+.hero-content h1 {
+    font-size: 26px;
+}
+.hero-content p {
+    font-size: 18px;
+}
+.hero-btn {
+    font-size: 18px;
+}
+.logo{
+    display: none;
+}

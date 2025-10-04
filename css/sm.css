@@ -1,0 +1,16 @@
+
+.hero-content h1 {
+    font-size: 20px;
+}
+.hero-content p {
+    font-size: 12px;
+}
+.hero-btn {
+    font-size: 12px;
+}
+.blaze-pagination {
+    display: none;
+}
+.logo{
+    display: none;
+}
